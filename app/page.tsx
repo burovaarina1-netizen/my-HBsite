@@ -18,7 +18,7 @@ export default function HomePage() {
           <span className="font-serif text-sm normal-case italic tracking-normal text-pink">
             {'Spotted: the party of the year'}
           </span>
-          <span>23 · 01 · 2027</span>
+          <span>25 · 02 · 2027</span>
         </div>
       </section>
 
